@@ -3,8 +3,92 @@
   "description": "通用代理软件图标库，支持 Quantumult X / Loon / Surge 等远程订阅",
   "icons": [
     {
-      "name": "Claude Code",
+      "name": "Clawd 原版",
       "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd.png"
+    },
+    {
+      "name": "Clawd 烧烤",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_barbie.png"
+    },
+    {
+      "name": "Clawd 捉蝴蝶",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_bugcatcher.png"
+    },
+    {
+      "name": "Clawd 9000 (HAL)",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_clawd9000.png"
+    },
+    {
+      "name": "小丑 Clawd",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_clown.png"
+    },
+    {
+      "name": "软木帽 Clawd",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_corkhat.png"
+    },
+    {
+      "name": "酷墨镜 Clawd",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_dealwithit.png"
+    },
+    {
+      "name": "侦探 Clawd",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_detective.png"
+    },
+    {
+      "name": "南半球 Clawd",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_downunder.png"
+    },
+    {
+      "name": "淡定 Clawd (火)",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_fire.png"
+    },
+    {
+      "name": "爱心 Clawd",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_love.png"
+    },
+    {
+      "name": "生气 Clawd",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_mad.png"
+    },
+    {
+      "name": "墨西哥 Clawd",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_mariachi.png"
+    },
+    {
+      "name": "融化 Clawd",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_melting.png"
+    },
+    {
+      "name": "赏月 Clawd",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_moonlight.png"
+    },
+    {
+      "name": "伪装 Clawd",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_notclawd.png"
+    },
+    {
+      "name": "雨中 Clawd",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_rain.png"
+    },
+    {
+      "name": "罗宾汉 Clawd",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_robinhood.png"
+    },
+    {
+      "name": "圣诞 Clawd",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_santa.png"
+    },
+    {
+      "name": "冲浪 Clawd",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_surf.png"
+    },
+    {
+      "name": "寿司 Clawd",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_sushi.png"
+    },
+    {
+      "name": "山姆大叔 Clawd",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_unclesam.png"
     }
   ]
 }
