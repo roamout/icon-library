@@ -4,267 +4,333 @@
   "icons": [
     {
       "name": "Clawd 基础",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "Agent 代理",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_agent.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_agent.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "回答",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_answer.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_answer.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "API",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_api.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_api.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "提问",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_ask.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_ask.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "Bash 命令",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_bash.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_bash.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "生日",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_birthday.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_birthday.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "构建",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_build.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_build.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "CI/CD",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_ci.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_ci.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "咖啡",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_coffee.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_coffee.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "提交",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_commit.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_commit.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "配置",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_config.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_config.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "困惑",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_confused.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_confused.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "做饭",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_cook.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_cook.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "HTTP 请求",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_curl.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_curl.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "跳舞",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_dance.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_dance.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "数据库",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_db.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_db.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "调试",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_debug.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_debug.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "部署",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_deploy.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_deploy.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "差异对比",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_diff.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_diff.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "Docker",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_docker.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_docker.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "喝水",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_drink.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_drink.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "吃饭",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_eat.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_eat.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "编辑文件",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_edit.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_edit.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "环境变量",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_env.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_env.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "错误",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_error.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_error.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "灵光一现",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_eureka.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_eureka.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "探索",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_explore.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_explore.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "专注",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_focus.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_focus.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "游戏",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_game.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_game.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "Git",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_git.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_git.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "Glob 查找",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_glob.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_glob.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "Grep 搜索",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_grep.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_grep.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "开心",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_happy.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_happy.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "安装",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_install.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_install.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "代码检查",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_lint.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_lint.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "日志",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_log.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_log.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "爱心",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_love.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_love.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "LSP 补全",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_lsp.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_lsp.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "冥想",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_meditate.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_meditate.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "合并",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_merge.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_merge.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "音乐",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_music.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_music.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "笔记",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_notebook.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_notebook.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "撸宠物",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_pet.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_pet.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "拍照",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_photo.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_photo.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "规划",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_plan.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_plan.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "Pull Request",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_pr.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_pr.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "雨天",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_rain.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_rain.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "读取文件",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_read.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_read.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "读书",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_read_book.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_read_book.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "休息",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_rest.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_rest.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "代码审查",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_review.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_review.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "跑步",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_run.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_run.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "难过",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_sad.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_sad.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "睡觉",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_sleep.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_sleep.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "SSH",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_ssh.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_ssh.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "成功",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_success.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_success.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "测试",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_test.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_test.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "思考",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_think.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_think.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "旅行",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_travel.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_travel.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "等待",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_wait.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_wait.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "挥手",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_wave.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_wave.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "网页抓取",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_webfetch.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_webfetch.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "网络搜索",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_websearch.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_websearch.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "健身",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_workout.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_workout.png?v=4",
+      "category": "Claude Clawd"
     },
     {
       "name": "写入文件",
-      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_write.png?v=3"
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd_write.png?v=4",
+      "category": "Claude Clawd"
     }
   ]
 }
