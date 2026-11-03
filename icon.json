@@ -1,0 +1,14 @@
+{
+  "name": "roamout 通用图标库",
+  "description": "通用代理软件图标库，支持 Quantumult X / Loon / Surge 等远程订阅",
+  "icons": [
+    {
+      "name": "示例-Google",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/google.png"
+    },
+    {
+      "name": "示例-GitHub",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/github.png"
+    }
+  ]
+}
