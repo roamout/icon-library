@@ -3,6 +3,11 @@
   "description": "通用代理软件图标库，支持 Quantumult X / Loon / Surge 等远程订阅",
   "icons": [
     {
+      "name": "Telegram",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/telegram.png?v=1",
+      "category": "社交通讯"
+    },
+    {
       "name": "Quantumult X 原版",
       "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/qx_original.png?v=5",
       "category": "Quantumult X"
