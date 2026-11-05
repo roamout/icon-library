@@ -3,6 +3,11 @@
   "description": "通用代理软件图标库，支持 Quantumult X / Loon / Surge 等远程订阅",
   "icons": [
     {
+      "name": "Quantumult X",
+      "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/quantumultx.png?v=1",
+      "category": "代理软件"
+    },
+    {
       "name": "Clawd 基础",
       "url": "https://raw.githubusercontent.com/roamout/icon-library/main/icons/clawd.png?v=4",
       "category": "Claude Clawd"
